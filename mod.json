@@ -1,0 +1,12 @@
+{
+    "name": "bigger-world-message-block",
+    "displayName": "Bigger world message block",
+    "description": "javascript mod that makes the world message block able to store larger text",
+    "repo": "jstational/bigger-message-block",
+
+    "iosCompatible": true,
+    "minGameVersion": "140.1",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": ""
+}
